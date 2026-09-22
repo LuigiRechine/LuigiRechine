@@ -117,14 +117,8 @@ In the long term, I want to combine software development with engineering and te
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=LuigiRechine&show_icons=true&theme=github_dark&hide_border=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiRechine&layout=compact&theme=github_dark&hide_border=true"
-    height="180"
-  />
+  <img src="./profile/stats.svg" height="180" />
+  <img src="./profile/top-langs.svg" height="180" />
 </p>
 
 ---
